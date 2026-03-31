@@ -1,0 +1,10 @@
+{
+  "name": "Secure Session Flutter",
+  "short_name": "SecureSession",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#2563EB",
+  "description": "Secure Session Flutter preview app.",
+  "icons": []
+}
