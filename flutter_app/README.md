@@ -15,6 +15,10 @@ This folder contains the **Flutter migration skeleton** for the native iOS + And
   - clears lock without prompting (iOS behavior)
 
 ## Run
+Note: this folder currently contains a **migration skeleton** (pubspec + lint config + docs).
+To run it, it must be a valid Flutter project (e.g., `lib/main.dart` plus platform folders like `android/`, `ios/`, etc.).
+
+Once scaffolded, run:
 1) Ensure you have Flutter installed
 2) From this folder:
 ```bash
