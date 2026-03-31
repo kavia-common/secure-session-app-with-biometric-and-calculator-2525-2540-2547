@@ -1,0 +1,1 @@
+ build/web/manifest.json:  /home/kavia/workspace/code-generation/secure-session-app-with-biometric-and-calculator-2525-2540-2547/secure_session_flutter_app/web/manifest.json /home/kavia/workspace/code-generation/secure-session-app-with-biometric-and-calculator-2525-2540-2547/secure_session_flutter_app/web/index.html
